@@ -1,0 +1,22 @@
+# macOS Finder metadata
+.DS_Store
+
+# R data analysis caches
+.Rhistory
+.RData
+.Rproj.user/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temporary data exports
+*.tmp
+
+# renv
+Notebooks/renv/library/
+Notebooks/renv/staging/
+Notebooks/renv/python/
+
+# big outputs (you’re already using LFS/DVC, but still ignore normal Git)
+*.RDS
+*.gz
