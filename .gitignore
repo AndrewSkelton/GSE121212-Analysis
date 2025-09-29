@@ -18,5 +18,5 @@ Notebooks/renv/staging/
 Notebooks/renv/python/
 
 # big outputs (using LFS/DVC, but still ignore normal Git)
-*.RDS
-*.gz
+# *.RDS
+# *.gz
