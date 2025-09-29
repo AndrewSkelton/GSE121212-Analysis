@@ -17,6 +17,6 @@ Notebooks/renv/library/
 Notebooks/renv/staging/
 Notebooks/renv/python/
 
-# big outputs (you’re already using LFS/DVC, but still ignore normal Git)
+# big outputs (using LFS/DVC, but still ignore normal Git)
 *.RDS
 *.gz
